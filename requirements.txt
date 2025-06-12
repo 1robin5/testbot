@@ -1,0 +1,6 @@
+faker
+telebot
+fake_useragent
+bs4
+names
+httpx
